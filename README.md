@@ -1,7 +1,6 @@
 # twitterrific-nordtheme
 Nord theme for Twitterrific
 
-# twitterrific-nordtheme
 Trying to port [Arctic Ice Studio's Nord Theme](https://www.nordtheme.com) to Iconfactory's [Twitterrific](https://twitterrific.com/ios). 
 
 ![screenie](screenie.png)
