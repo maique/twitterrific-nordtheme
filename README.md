@@ -11,3 +11,8 @@ Trying to port [Arctic Ice Studio's Nord Theme](https://www.nordtheme.com) to Ic
 3. You can now use it on macOS and iOS by selecting the theme
 
 Note: only tested on iOS so far, might not work on MacOS
+
+
+## Darker Version
+
+![screenieDark](screenieDark.png)
