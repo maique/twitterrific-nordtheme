@@ -16,3 +16,10 @@ Note: only tested on iOS so far, might not work on MacOS
 ## Darker Version
 
 ![screenieDark](screenieDark.png)
+
+## Install
+1. Download the [TwitterrificNordDark.twitterrifictheme](TwitterrificNordDark.twitterrifictheme) file to your computer
+2. Put it in your iCloud Drive folder: /Twitterrific/Themes/Dark/
+3. You can now use it on macOS and iOS by selecting the theme
+
+Note: only tested on iOS so far, might not work on MacOS
