@@ -69,7 +69,7 @@
 	<key>tweetTypeDefault-detailColor</key>
 	<string>156:156:174</string>
 	<key>tweetTypeDefault-linkBackgroundColor</key>
-	<string>216:222:233</string>
+	<string>46:52:64</string>
 	<key>tweetTypeDefault-linkColor</key>
 	<string>235:203:139</string>
 	<key>tweetTypeDefault-selectedBackgroundColor</key>
@@ -85,7 +85,7 @@
 	<key>tweetTypeMention-detailColor</key>
 	<string>156:156:174</string>
 	<key>tweetTypeMention-linkBackgroundColor</key>
-	<string>223:228:237</string>
+	<string>46:52:64</string>
 	<key>tweetTypeMention-linkColor</key>
 	<string>235:203:139</string>
 	<key>tweetTypeMention-selectedBackgroundColor</key>
@@ -101,7 +101,7 @@
 	<key>tweetTypeMessage-detailColor</key>
 	<string>172:172:188</string>
 	<key>tweetTypeMessage-linkBackgroundColor</key>
-	<string>205:226:237</string>
+	<string>46:52:64</string>
 	<key>tweetTypeMessage-linkColor</key>
 	<string>235:203:139</string>
 	<key>tweetTypeMessage-selectedBackgroundColor</key>
@@ -117,7 +117,7 @@
 	<key>tweetTypeQuoted-detailColor</key>
 	<string>118:117:118</string>
 	<key>tweetTypeQuoted-linkBackgroundColor</key>
-	<string>223:228:237</string>
+	<string>46:52:64</string>
 	<key>tweetTypeQuoted-linkColor</key>
 	<string>235:203:139</string>
 	<key>tweetTypeQuoted-selectedBackgroundColor</key>
@@ -133,7 +133,7 @@
 	<key>tweetTypeReply-detailColor</key>
 	<string>156:156:174</string>
 	<key>tweetTypeReply-linkBackgroundColor</key>
-	<string>223:228:237</string>
+	<string>46:52:64</string>
 	<key>tweetTypeReply-linkColor</key>
 	<string>235:203:139</string>
 	<key>tweetTypeReply-selectedBackgroundColor</key>
@@ -149,7 +149,7 @@
 	<key>tweetTypeSent-detailColor</key>
 	<string>156:156:174</string>
 	<key>tweetTypeSent-linkBackgroundColor</key>
-	<string>223:228:237</string>
+	<string>46:52:64</string>
 	<key>tweetTypeSent-linkColor</key>
 	<string>235:203:139</string>
 	<key>tweetTypeSent-selectedBackgroundColor</key>
@@ -165,7 +165,7 @@
 	<key>tweetTypeSentMessage-detailColor</key>
 	<string>172:172:188</string>
 	<key>tweetTypeSentMessage-linkBackgroundColor</key>
-	<string>199:219:230</string>
+	<string>46:52:64</string>
 	<key>tweetTypeSentMessage-linkColor</key>
 	<string>235:203:139</string>
 	<key>tweetTypeSentMessage-selectedBackgroundColor</key>
